@@ -1,10 +1,12 @@
 <h1>Hi There I'm Ethonia Maseko</h1>
-<p>I work as a front-end developer building scalable websites. I have been working as a web developer for quite some   time now. I believe I am a very ambitious person who loves to work on making the website work well and I ensure that I stay updated on all the latest changes that take place in the industry</p>
+
+<h2>I am a Developer, Creator and a Mother</h2>
+<p>I work as a front-end developer building scalable websites. I have been working as a web developer for quite some time now.I love to create websites as well as apps for people, I am currently learning React to gain more knowledge in other programming languages</p>
 
 <p align="left">Languages and Tools:</p>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
- <p align="left">Contact Me At:</p>
+ <p align="left">Talk to me,I am Superb</p>
  
 
 
